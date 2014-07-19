@@ -1,0 +1,132 @@
+/* GENERAL */
+
+body
+	{
+	background-color: white;
+	}
+	
+a:link, a:active, a:visited
+	{
+	color: #218429;
+	text-decoration: underline
+	}
+	
+a:hover
+	{
+	color: #cc0000;
+	text-decoration: none
+	}
+
+
+/* NAVIGATION */
+
+.index
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 12px;
+	color: #333366;
+	}
+	
+.date
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	}
+	
+.home
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #333366;
+	}
+	
+.return
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 12px;
+	color: #333366;
+	}
+	
+
+/* CONTENT */
+
+.caption
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #666666;
+	}
+
+.title
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 16px;
+	color: #218429;
+	}
+
+.warntitle
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 16px;
+	color: #cc0000;
+	}
+	
+.smalltext
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	}
+	
+.verysmalltext
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9px;
+	line-height: 10px;
+	color: #666666;
+	}
+	
+	
+.text
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 11px;
+	line-height: 13px;
+	}
+	
+.hilitetext
+	{	
+	font-family: Verdana, Arial, sans-serif;
+    font-weight: bold;
+	font-size: 11px;
+	line-height: 13px;
+	color: #218429;
+	}
+	
+	
+.section
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 10px;
+	line-height: 12px;
+	color: #cc0000;
+	}
+	
+.sidebar
+	{	
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	}
